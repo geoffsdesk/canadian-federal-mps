@@ -1,0 +1,202 @@
+openparliament_path,session,number,date,description,result,bill,yea,nay,policy_area
+/votes/45-1/174/,45-1,174,2026-09-23,"2nd reading of Bill C-266, An Act to establish a national framework respecting skilled trades and labour mobility",Passed,/bills/45-1/C-266/,295,21,social_labour
+/votes/45-1/173/,45-1,173,2026-06-18,"3rd reading and adoption of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026",Passed,/bills/45-1/C-30/,166,159,economy_budget
+/votes/45-1/172/,45-1,172,2026-06-17,"Government Business No. 13 (Proceedings on Bill C-22, An Act respecting lawful access)",Passed,,166,150,justice_security
+/votes/45-1/171/,45-1,171,2026-06-17,"Government Business No. 13 (Proceedings on Bill C-22, An Act respecting lawful access) (amendment)",Failed,,151,171,justice_security
+/votes/45-1/170/,45-1,170,2026-06-17,"2nd reading of Bill C-267, An Act to establish a national framework to promote the durability of electronic products and essential home appliances",Passed,/bills/45-1/C-267/,192,131,energy_environment
+/votes/45-1/169/,45-1,169,2026-06-17,"2nd reading of Bill C-26, An Act to authorize certain payments to be made out of the Consolidated Revenue Fund for the purpose of improving housing supply",Passed,/bills/45-1/C-26/,191,129,housing_infrastructure
+/votes/45-1/168/,45-1,168,2026-06-17,"Motion respecting Senate amendments to Bill C-9, An Act to amend the Criminal Code (hate propaganda, hate crime and access to religious or cultural places)",Passed,/bills/45-1/C-9/,189,128,justice_security
+/votes/45-1/167/,45-1,167,2026-06-17,"Motion respecting Senate amendments to Bill C-9, An Act to amend the Criminal Code (hate propaganda, hate crime and access to religious or cultural places) (amendment)",Failed,/bills/45-1/C-9/,132,184,justice_security
+/votes/45-1/166/,45-1,166,2026-06-16,"Government Business No. 11 (Proceedings on Bill C-26, An Act to authorize certain payments to be made out of the Consolidated Revenue Fund for the purpose of improving housing supply)",Passed,,164,156,housing_infrastructure
+/votes/45-1/165/,45-1,165,2026-06-16,"Government Business No. 11 (Proceedings on Bill C-26, An Act to authorize certain payments to be made out of the Consolidated Revenue Fund for the purpose of improving housing supply) (amendment)",Failed,,134,187,housing_infrastructure
+/votes/45-1/164/,45-1,164,2026-06-16,Motion for closure,Passed,,164,155,democracy_procedure
+/votes/45-1/163/,45-1,163,2026-06-16,Motion to adjourn the House,Failed,,130,189,democracy_procedure
+/votes/45-1/162/,45-1,162,2026-06-16,Motion to proceed to Orders of the Day,Passed,,164,157,democracy_procedure
+/votes/45-1/161/,45-1,161,2026-06-15,"Time allocation for Bill C-9, An Act to amend the Criminal Code (hate propaganda, hate crime and access to religious or cultural places)",Passed,/bills/45-1/C-9/,168,159,justice_security
+/votes/45-1/160/,45-1,160,2026-06-15,"Government Business No. 12 (Proceedings on Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026)",Passed,,168,162,economy_budget
+/votes/45-1/159/,45-1,159,2026-06-15,"Government Business No. 12 (Proceedings on Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026) (amendment))",Failed,,162,168,economy_budget
+/votes/45-1/158/,45-1,158,2026-06-15,"Government Business No. 12 (Proceedings on Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026) (subamendment)",Failed,,160,169,economy_budget
+/votes/45-1/157/,45-1,157,2026-06-15,Motion to proceed to Orders of the Day,Passed,,167,162,democracy_procedure
+/votes/45-1/156/,45-1,156,2026-06-15,Motion for closure,Passed,,168,162,democracy_procedure
+/votes/45-1/155/,45-1,155,2026-06-12,"Time allocation for Bill C-14, An Act to amend the Criminal Code, the Youth Criminal Justice Act and the National Defence Act (bail and sentencing)",Passed,/bills/45-1/C-14/,166,158,justice_security
+/votes/45-1/154/,45-1,154,2026-06-11,"Time allocation for Bill C-25, An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026",Passed,/bills/45-1/C-25/,167,156,democracy_procedure
+/votes/45-1/153/,45-1,153,2026-06-11,"3rd reading and adoption of Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures)",Passed,/bills/45-1/C-16/,192,133,justice_security
+/votes/45-1/152/,45-1,152,2026-06-11,Motion to proceed to Orders of the Day,Passed,,165,157,democracy_procedure
+/votes/45-1/151/,45-1,151,2026-06-10,"Concurrence at report stage of Bill C-25, An Act to amend the Canada Elections Act and to enact An Act to change the names of certain electoral districts, 2026",Passed,/bills/45-1/C-25/,314,0,democracy_procedure
+/votes/45-1/150/,45-1,150,2026-06-10,Motion to adjourn the House,Failed,,122,186,democracy_procedure
+/votes/45-1/149/,45-1,149,2026-06-10,Motion to adjourn the debate,Failed,,125,189,democracy_procedure
+/votes/45-1/147/,45-1,147,2026-06-10,"2nd reading of Bill C-232, An Act to amend the Corrections and Conditional Release Act (maximum security offenders)",Failed,/bills/45-1/C-232/,133,190,justice_security
+/votes/45-1/146/,45-1,146,2026-06-10,"3rd reading and adoption of Bill C-20, An Act respecting the establishment of Build Canada Homes",Passed,/bills/45-1/C-20/,184,140,housing_infrastructure
+/votes/45-1/145/,45-1,145,2026-06-10,Sixth report of the Standing Committee on Justice and Human Rights,Passed,,317,6,justice_security
+/votes/45-1/144/,45-1,144,2026-06-09,Motion to adjourn the House,Failed,,124,186,democracy_procedure
+/votes/45-1/143/,45-1,143,2026-06-09,Government Business No. 10 (Extension of sitting hours in June),Passed,,325,1,democracy_procedure
+/votes/45-1/142/,45-1,142,2026-06-09,"Time allocation for Bill C-20, An Act respecting the establishment of Build Canada Homes",Passed,/bills/45-1/C-20/,166,159,housing_infrastructure
+/votes/45-1/141/,45-1,141,2026-06-09,Motion to proceed to Orders of the Day,Passed,,167,161,democracy_procedure
+/votes/45-1/148/,45-1,148,2026-06-08,"3rd reading and adoption of Bill C-33, An Act for granting to His Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2027",Passed,/bills/45-1/C-33/,191,134,economy_budget
+/votes/45-1/140/,45-1,140,2026-06-08,"3rd reading and adoption of Bill C-33, An Act for granting to His Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2027",Passed,/bills/45-1/C-33/,191,134,economy_budget
+/votes/45-1/139/,45-1,139,2026-06-08,Concurrence in an opposed item (amendment),Failed,,140,186,democracy_procedure
+/votes/45-1/138/,45-1,138,2026-06-08,Opposition Motion (Inflationary policies),Failed,,133,191,economy_budget
+/votes/45-1/137/,45-1,137,2026-06-08,"Concurrence at report stage of Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures)",Passed,/bills/45-1/C-16/,195,136,justice_security
+/votes/45-1/136/,45-1,136,2026-06-08,"C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures) (report stage amendment) (Motion No. 2)",Failed,/bills/45-1/C-16/,142,189,justice_security
+/votes/45-1/135/,45-1,135,2026-06-08,"C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures) (report stage amendment) (Motion No. 1)",Failed,/bills/45-1/C-16/,7,323,justice_security
+/votes/45-1/134/,45-1,134,2026-06-04,"Time allocation for Bill C-16, An Act to amend certain Acts in relation to criminal and correctional matters (child protection, gender-based violence, delays and other measures)",Passed,/bills/45-1/C-16/,169,164,justice_security
+/votes/45-1/133/,45-1,133,2026-06-03,"2nd reading of Bill C-31, A second Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 (all remaining provisions of the bill)",Passed,/bills/45-1/C-31/,170,165,economy_budget
+/votes/45-1/132/,45-1,132,2026-06-03,"2nd reading of Bill C-31, A second Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 (Part 4, Division 17, that is clauses 339 to 364 of the bill)",Passed,/bills/45-1/C-31/,177,158,economy_budget
+/votes/45-1/131/,45-1,131,2026-06-03,"2nd reading of Bill C-31, A second Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 (reasoned amendment)",Failed,/bills/45-1/C-31/,137,198,economy_budget
+/votes/45-1/130/,45-1,130,2026-06-03,Opposition Motion (Economic policies),Failed,,144,191,economy_budget
+/votes/45-1/129/,45-1,129,2026-06-01,Opposition Motion (Elimination of the streaming tax),Failed,,134,193,digital_telecom
+/votes/45-1/128/,45-1,128,2026-06-01,"Time allocation for Bill C-31, A second Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025",Passed,/bills/45-1/C-31/,167,161,economy_budget
+/votes/45-1/127/,45-1,127,2026-05-27,"2nd reading of Bill S-233, An Act to amend the Criminal Code (assault against persons who provide health services and first responders)",Passed,/bills/45-1/S-233/,332,0,justice_security
+/votes/45-1/126/,45-1,126,2026-05-27,Opposition Motion (Cancellation of federal taxes on gas and diesel and the Clean Fuel Standard),Failed,,138,195,energy_environment
+/votes/45-1/125/,45-1,125,2026-05-26,"2nd reading of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026",Passed,/bills/45-1/C-30/,170,164,economy_budget
+/votes/45-1/124/,45-1,124,2026-05-26,"2nd reading of Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026 (reasoned amendment)",Failed,/bills/45-1/C-30/,137,197,economy_budget
+/votes/45-1/123/,45-1,123,2026-05-25,"3rd reading and adoption of Bill C-11, An Act to amend the National Defence Act and other Acts",Passed,/bills/45-1/C-11/,198,140,defence_foreign
+/votes/45-1/122/,45-1,122,2026-05-25,"Bill C-11, An Act to amend the National Defence Act and other Acts (recommittal to a committee)",Failed,/bills/45-1/C-11/,160,178,defence_foreign
+/votes/45-1/121/,45-1,121,2026-05-25,Opposition Motion (Protection of private property rights in Canada),Failed,,139,199,other
+/votes/45-1/120/,45-1,120,2026-05-25,"Time allocation for Bill C-30, An Act to implement certain provisions of the spring economic update tabled in Parliament on April 28, 2026",Passed,/bills/45-1/C-30/,171,167,economy_budget
+/votes/45-1/119/,45-1,119,2026-05-06,Ways and means motion No. 11,Passed,,170,165,economy_budget
+/votes/45-1/118/,45-1,118,2026-05-06,Opposition Motion (Measures to support the manufacturing sector),Passed,,333,0,economy_budget
+/votes/45-1/117/,45-1,117,2026-05-05,"Concurrence at report stage of Bill C-11, An Act to amend the National Defence Act and other Acts",Passed,/bills/45-1/C-11/,200,136,defence_foreign
+/votes/45-1/116/,45-1,116,2026-05-05,"Bill C-11, An Act to amend the National Defence Act and other Acts (report stage amendment) (Motion No. 9)",Failed,/bills/45-1/C-11/,165,171,defence_foreign
+/votes/45-1/115/,45-1,115,2026-05-05,"Bill C-11, An Act to amend the National Defence Act and other Acts (report stage amendment) (Motion No. 6)",Passed,/bills/45-1/C-11/,171,165,defence_foreign
+/votes/45-1/114/,45-1,114,2026-05-05,"Bill C-11, An Act to amend the National Defence Act and other Acts (report stage amendment) (Motion No. 5)",Passed,/bills/45-1/C-11/,178,158,defence_foreign
+/votes/45-1/113/,45-1,113,2026-05-05,"Bill C-11, An Act to amend the National Defence Act and other Acts (report stage amendment) (Motion No. 4)",Failed,/bills/45-1/C-11/,158,178,defence_foreign
+/votes/45-1/112/,45-1,112,2026-05-05,"Bill C-11, An Act to amend the National Defence Act and other Acts (report stage amendment) (Motion No. 3)",Passed,/bills/45-1/C-11/,171,165,defence_foreign
+/votes/45-1/111/,45-1,111,2026-05-05,"Bill C-11, An Act to amend the National Defence Act and other Acts (report stage amendment) (Motion No. 2)",Failed,/bills/45-1/C-11/,158,178,defence_foreign
+/votes/45-1/110/,45-1,110,2026-05-05,"Bill C-11, An Act to amend the National Defence Act and other Acts (report stage amendment) (Motion No. 1)",Failed,/bills/45-1/C-11/,158,178,defence_foreign
+/votes/45-1/109/,45-1,109,2026-05-04,Opposition Motion (Sovereign debt funds),Failed,,160,175,economy_budget
+/votes/45-1/108/,45-1,108,2026-05-04,"Time allocation for Bill C-11, An Act to amend the National Defence Act and other Acts",Passed,/bills/45-1/C-11/,169,164,defence_foreign
+/votes/45-1/107/,45-1,107,2026-04-29,Ways and means motion No. 10,Passed,,173,161,economy_budget
+/votes/45-1/106/,45-1,106,2026-04-27,Government Business No. 9 (Changes to the Standing Orders),Passed,,178,162,democracy_procedure
+/votes/45-1/105/,45-1,105,2026-04-27,Government Business No. 9 (Changes to the Standing Orders) (amendment),Failed,,168,172,democracy_procedure
+/votes/45-1/104/,45-1,104,2026-04-27,Motion for closure,Passed,,173,163,democracy_procedure
+/votes/45-1/103/,45-1,103,2026-04-22,Private Members' Business M-16 (Use of underused and surplus federal lands and buildings for services for veterans),Passed,,168,151,defence_foreign
+/votes/45-1/102/,45-1,102,2026-04-22,"2nd reading of Bill C-226, An Act to establish a national framework to improve food price transparency",Passed,/bills/45-1/C-226/,168,150,economy_budget
+/votes/45-1/101/,45-1,101,2026-04-22,"2nd reading of Bill C-238, An Act to amend the Criminal Code (restitution orders)",Passed,/bills/45-1/C-238/,168,153,justice_security
+/votes/45-1/100/,45-1,100,2026-04-22,"2nd reading of Bill S-211, An Act respecting a national framework on sports betting advertising",Passed,/bills/45-1/S-211/,291,28,digital_telecom
+/votes/45-1/99/,45-1,99,2026-04-21,"Seventh report of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",Failed,,152,166,social_labour
+/votes/45-1/98/,45-1,98,2026-04-21,Appointment of an officer of Parliament,Passed,,164,153,democracy_procedure
+/votes/45-1/97/,45-1,97,2026-04-15,Private Members' Business M-15 (Conservation donations),Passed,,193,132,energy_environment
+/votes/45-1/96/,45-1,96,2026-04-15,"2nd reading of Bill C-231, An Act to amend the Youth Criminal Justice Act",Passed,/bills/45-1/C-231/,327,0,justice_security
+/votes/45-1/95/,45-1,95,2026-04-15,Opposition Motion (Fuel taxes),Failed,,134,192,energy_environment
+/votes/45-1/94/,45-1,94,2026-03-26,Eighth report of the Standing Committee on Public Accounts,Tie,,164,164,economy_budget
+/votes/45-1/93/,45-1,93,2026-03-25,"3rd reading and adoption of Bill C-9, An Act to amend the Criminal Code (hate propaganda, hate crime and access to religious or cultural places)",Passed,/bills/45-1/C-9/,186,137,justice_security
+/votes/45-1/92/,45-1,92,2026-03-25,"Bill C-9, An Act to amend the Criminal Code (hate propaganda, hate crime and access to religious or cultural places) (recommittal to a committee)",Failed,/bills/45-1/C-9/,125,188,justice_security
+/votes/45-1/91/,45-1,91,2026-03-25,"2nd reading of Bill C-242, An Act to amend the Criminal Code and the Department of Justice Act",Failed,/bills/45-1/C-242/,136,193,justice_security
+/votes/45-1/90/,45-1,90,2026-03-25,"2nd reading of Bill C-243, An Act to amend the Corrections and Conditional Release Act (parole review)",Failed,/bills/45-1/C-243/,136,192,justice_security
+/votes/45-1/89/,45-1,89,2026-03-25,"2nd reading of Bill C-220, An Act to amend the Criminal Code (immigration status in sentencing)",Failed,/bills/45-1/C-220/,158,171,justice_security
+/votes/45-1/88/,45-1,88,2026-03-25,"2nd reading of Bill C-246, An Act to amend the Criminal Code (consecutive sentences for sexual offences)",Failed,/bills/45-1/C-246/,157,169,justice_security
+/votes/45-1/87/,45-1,87,2026-03-24,Opposition Motion (Tariff-free auto pact),Failed,,135,193,defence_foreign
+/votes/45-1/86/,45-1,86,2026-03-23,"Concurrence at report stage of Bill C-9, An Act to amend the Criminal Code (hate propaganda, hate crime and access to religious or cultural places)",Passed,/bills/45-1/C-9/,188,144,justice_security
+/votes/45-1/85/,45-1,85,2026-03-11,"2nd reading of Bill C-233, An Act to amend the Export and Import Permits Act",Failed,/bills/45-1/C-233/,22,295,defence_foreign
+/votes/45-1/84/,45-1,84,2026-03-10,"Government Business No. 6 (Proceedings on Bill C-9, An Act to amend the Criminal Code (hate propaganda, hate crime and access to religious or cultural places))",Passed,,186,140,justice_security
+/votes/45-1/83/,45-1,83,2026-03-10,Motion for closure,Passed,,186,144,democracy_procedure
+/votes/45-1/82/,45-1,82,2026-02-25,"Concurrence at report stage of Bill C-15, An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025",Passed,/bills/45-1/C-15/,168,163,economy_budget
+/votes/45-1/81/,45-1,81,2026-02-25,"Bill C-15, An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 (report stage amendment) (Motion No. 81)",Failed,/bills/45-1/C-15/,30,301,economy_budget
+/votes/45-1/80/,45-1,80,2026-02-25,"Bill C-15, An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 (report stage amendment) (Motion No. 78)",Failed,/bills/45-1/C-15/,162,168,economy_budget
+/votes/45-1/79/,45-1,79,2026-02-25,"Bill C-15, An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 (report stage amendment) (Motion No. 55)",Failed,/bills/45-1/C-15/,22,309,economy_budget
+/votes/45-1/78/,45-1,78,2026-02-25,"Bill C-15, An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 (report stage amendment) (Motion No. 48)",Failed,/bills/45-1/C-15/,162,169,economy_budget
+/votes/45-1/77/,45-1,77,2026-02-25,"Bill C-15, An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 (report stage amendment) (Motion No. 44)",Failed,/bills/45-1/C-15/,155,176,economy_budget
+/votes/45-1/76/,45-1,76,2026-02-25,"Bill C-15, An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 (report stage amendment) (Motion No. 34)",Failed,/bills/45-1/C-15/,7,323,economy_budget
+/votes/45-1/75/,45-1,75,2026-02-25,"Bill C-15, An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 (report stage amendment) (Motion No. 1)",Failed,/bills/45-1/C-15/,30,301,economy_budget
+/votes/45-1/74/,45-1,74,2026-02-25,"2nd reading of Bill C-237, An Act to amend the Fisheries Act (Atlantic groundfish fisheries)",Failed,/bills/45-1/C-237/,134,197,energy_environment
+/votes/45-1/73/,45-1,73,2026-02-25,"2nd reading of Bill C-244, An Act to amend the Canadian Environmental Protection Act, 1999 and the Wrecked, Abandoned or Hazardous Vessels Act",Passed,/bills/45-1/C-244/,202,125,energy_environment
+/votes/45-1/72/,45-1,72,2026-02-25,Opposition Motion (Federal benefits and asylum claimants),Failed,,134,198,social_labour
+/votes/45-1/71/,45-1,71,2026-02-23,Opposition Motion (Automotive strategy),Failed,,139,190,other
+/votes/45-1/70/,45-1,70,2026-02-23,Opposition Motion (Automotive strategy ) (amendment),Failed,,161,168,other
+/votes/45-1/69/,45-1,69,2026-02-12,"2nd reading of Bill S-210, An Act respecting Ukrainian Heritage Month",Passed,/bills/45-1/S-210/,318,0,other
+/votes/45-1/68/,45-1,68,2026-02-12,"2nd reading of Bill C-227, An Act to establish a national strategy on housing for young Canadians",Passed,/bills/45-1/C-227/,169,152,housing_infrastructure
+/votes/45-1/67/,45-1,67,2026-02-12,Opposition Motion (Serious crimes and refugee claims),Failed,,131,191,justice_security
+/votes/45-1/66/,45-1,66,2026-02-09,Opposition Motion (Apology to those whose land was expropriated in Mirabel),Passed,,330,0,housing_infrastructure
+/votes/45-1/65/,45-1,65,2026-02-04,"2nd reading of Bill C-245, An Act to amend the Canadian Multiculturalism Act (non-application in Quebec)",Failed,/bills/45-1/C-245/,22,307,other
+/votes/45-1/64/,45-1,64,2026-02-04,"2nd reading of Bill C-222, An Act to amend the Employment Insurance Act and the Canada Labour Code (death of a child)",Passed,/bills/45-1/C-222/,331,0,social_labour
+/votes/45-1/63/,45-1,63,2026-02-04,Opposition Motion (Food affordability),Failed,,137,195,social_labour
+/votes/45-1/62/,45-1,62,2026-02-02,"2nd reading of Bill C-18, An Act to implement the Comprehensive Economic Partnership Agreement between Canada and Indonesia",Passed,/bills/45-1/C-18/,332,1,defence_foreign
+/votes/45-1/61/,45-1,61,2026-01-28,"2nd reading of Bill C-228, An Act to amend the Department of Foreign Affairs, Trade and Development Act (prior review of treaties by Parliament)",Failed,/bills/45-1/C-228/,32,302,defence_foreign
+/votes/45-1/60/,45-1,60,2026-01-28,Opposition Motion (Canadian economic sovereignty),Failed,,137,197,economy_budget
+/votes/45-1/59/,45-1,59,2025-12-11,"Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (report stage amendment) (Motion No. 48)",Passed,/bills/45-1/C-12/,327,8,justice_security
+/votes/45-1/58/,45-1,58,2025-12-11,"Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (report stage amendment) (Motion No. 22)",Passed,/bills/45-1/C-12/,327,8,justice_security
+/votes/45-1/57/,45-1,57,2025-12-11,"Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (report stage amendment) (Motion No. 2)",Failed,/bills/45-1/C-12/,8,327,justice_security
+/votes/45-1/56/,45-1,56,2025-12-11,"Bill C-12, An Act respecting certain measures relating to the security of Canada's borders and the integrity of the Canadian immigration system and respecting other related security measures (report stage amendment) (Motion No. 1)",Failed,/bills/45-1/C-12/,147,188,justice_security
+/votes/45-1/55/,45-1,55,2025-12-09,Opposition Motion (Pipeline construction),Failed,,139,196,energy_environment
+/votes/45-1/54/,45-1,54,2025-12-09,Opposition Motion (Pipeline construction) (amendment),Failed,,139,196,energy_environment
+/votes/45-1/53/,45-1,53,2025-12-08,"2nd reading of Bill C-15, An Act to implement certain provisions of the budget tabled in Parliament on November 4, 2025 (reasoned amendment)",Failed,/bills/45-1/C-15/,139,196,economy_budget
+/votes/45-1/52/,45-1,52,2025-12-03,"2nd reading of Bill C-241, An Act to establish a national strategy respecting flood and drought forecasting",Passed,/bills/45-1/C-241/,303,22,energy_environment
+/votes/45-1/51/,45-1,51,2025-12-03,"2nd reading of Bill C-225, An Act to amend the Criminal Code",Passed,/bills/45-1/C-225/,325,0,justice_security
+/votes/45-1/50/,45-1,50,2025-11-17,Budgetary policy,Passed,,170,168,economy_budget
+/votes/45-1/49/,45-1,49,2025-11-07,Budgetary policy (amendment),Failed,,30,306,economy_budget
+/votes/45-1/48/,45-1,48,2025-11-06,Budgetary policy (subamendment),Failed,,139,198,economy_budget
+/votes/45-1/47/,45-1,47,2025-11-05,"3rd reading and adoption of Bill C-3, An Act to amend the Citizenship Act (2025)",Passed,/bills/45-1/C-3/,177,163,social_labour
+/votes/45-1/46/,45-1,46,2025-11-04,"First report of the Standing Committee on Human Resources, Skills and Social Development and the Status of Persons with Disabilities",Passed,,338,0,social_labour
+/votes/45-1/45/,45-1,45,2025-11-03,"Concurrence at report stage of Bill C-3, An Act to amend the Citizenship Act (2025)",Passed,/bills/45-1/C-3/,169,163,social_labour
+/votes/45-1/44/,45-1,44,2025-11-03,"Bill C-3, An Act to amend the Citizenship Act (2025) (report stage amendment)",Passed,/bills/45-1/C-3/,170,163,social_labour
+/votes/45-1/43/,45-1,43,2025-10-28,"Third report of the Standing Committee on Access to Information, Privacy and Ethics (main motion as amended)",Passed,,171,163,democracy_procedure
+/votes/45-1/42/,45-1,42,2025-10-28,"Third report of the Standing Committee on Access to Information, Privacy and Ethics (amendment)",Passed,,170,164,democracy_procedure
+/votes/45-1/41/,45-1,41,2025-10-20,Opposition Motion (Cost of deficits),Failed,,163,173,economy_budget
+/votes/45-1/40/,45-1,40,2025-10-06,Opposition Motion (Passage of Bill C-242),Failed,,142,196,democracy_procedure
+/votes/45-1/39/,45-1,39,2025-10-01,Opposition Motion (Food taxation),Failed,,138,194,economy_budget
+/votes/45-1/38/,45-1,38,2025-09-24,Opposition Motion (Constitutional powers of Quebec and the provinces),Failed,,159,170,democracy_procedure
+/votes/45-1/37/,45-1,37,2025-09-23,Opposition Motion (Oil and gas emissions cap),Failed,,140,191,energy_environment
+/votes/45-1/36/,45-1,36,2025-09-22,"2nd reading of Bill C-3, An Act to amend the Citizenship Act (2025)",Passed,/bills/45-1/C-3/,189,138,social_labour
+/votes/45-1/35/,45-1,35,2025-09-22,Opposition Motion (Violent crime and repeat offenders),Failed,,139,189,justice_security
+/votes/45-1/34/,45-1,34,2025-06-20,"3rd reading and adoption of Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act (Part 2)",Passed,/bills/45-1/C-5/,306,31,housing_infrastructure
+/votes/45-1/33/,45-1,33,2025-06-20,"3rd reading and adoption of Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act (Part 1)",Passed,/bills/45-1/C-5/,335,1,housing_infrastructure
+/votes/45-1/32/,45-1,32,2025-06-20,"Concurrence at report stage of Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act",Passed,/bills/45-1/C-5/,313,24,defence_foreign
+/votes/45-1/31/,45-1,31,2025-06-20,"Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act (report stage amendment) (Motion 19)",Failed,/bills/45-1/C-5/,31,306,defence_foreign
+/votes/45-1/30/,45-1,30,2025-06-20,"Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act (report stage amendment) (Motion 18)",Passed,/bills/45-1/C-5/,337,0,defence_foreign
+/votes/45-1/29/,45-1,29,2025-06-20,"Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act (report stage amendment) (Motion 15)",Failed,/bills/45-1/C-5/,140,197,defence_foreign
+/votes/45-1/28/,45-1,28,2025-06-20,"Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act (report stage amendment) (Motion 11)",Failed,/bills/45-1/C-5/,30,307,housing_infrastructure
+/votes/45-1/27/,45-1,27,2025-06-20,"Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act (report stage amendment) (Motion 9)",Passed,/bills/45-1/C-5/,307,30,defence_foreign
+/votes/45-1/26/,45-1,26,2025-06-20,"Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act (report stage amendment) (Motion 7)",Passed,/bills/45-1/C-5/,337,0,defence_foreign
+/votes/45-1/25/,45-1,25,2025-06-20,"Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act (report stage amendment) (Motion 5)",Passed,/bills/45-1/C-5/,170,167,housing_infrastructure
+/votes/45-1/24/,45-1,24,2025-06-20,"Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act (report stage amendment) (Motion 4)",Failed,/bills/45-1/C-5/,163,174,defence_foreign
+/votes/45-1/23/,45-1,23,2025-06-20,"Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act (report stage amendment) (Motion 1)",Failed,/bills/45-1/C-5/,31,306,defence_foreign
+/votes/45-1/22/,45-1,22,2025-06-17,"3rd reading and adoption of Bill C-7, An Act for granting to His Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2026",Passed,/bills/45-1/C-7/,194,141,economy_budget
+/votes/45-1/21/,45-1,21,2025-06-17,"Concurrence at report stage of Bill C-7, An Act for granting to His Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2026",Passed,/bills/45-1/C-7/,194,141,economy_budget
+/votes/45-1/20/,45-1,20,2025-06-17,"2nd reading of Bill C-7, An Act for granting to His Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2026",Passed,/bills/45-1/C-7/,194,141,economy_budget
+/votes/45-1/19/,45-1,19,2025-06-17,"Concurrence in estimates (Supplementary Estimates (A) for the fiscal year ending March 31, 2026)",Passed,,194,141,economy_budget
+/votes/45-1/18/,45-1,18,2025-06-17,"3rd reading and adoption of Bill C-6, An Act for granting to His Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2026",Passed,/bills/45-1/C-6/,194,141,economy_budget
+/votes/45-1/17/,45-1,17,2025-06-17,"Concurrence at report stage of Bill C-6, An Act for granting to His Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2026",Passed,/bills/45-1/C-6/,194,141,economy_budget
+/votes/45-1/16/,45-1,16,2025-06-17,"2nd reading of Bill C-6, An Act for granting to His Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2026",Passed,/bills/45-1/C-6/,194,141,economy_budget
+/votes/45-1/15/,45-1,15,2025-06-17,"Concurrence in estimates (Main Estimates for the fiscal year ending March 31, 2026)",Passed,,194,141,economy_budget
+/votes/45-1/14/,45-1,14,2025-06-17,Opposition Motion (Sale of gas-powered vehicles),Failed,,141,194,energy_environment
+/votes/45-1/13/,45-1,13,2025-06-16,"2nd reading of Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act",Passed,/bills/45-1/C-5/,304,29,housing_infrastructure
+/votes/45-1/12/,45-1,12,2025-06-16,"Government Business No. 1 (Proceedings on Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act)",Passed,,305,30,housing_infrastructure
+/votes/45-1/11/,45-1,11,2025-06-16,"Government Business No. 1 (Proceedings on Bill C-5, An Act to enact the Free Trade and Labour Mobility in Canada Act and the Building Canada Act) (amendment)",Failed,,29,305,housing_infrastructure
+/votes/45-1/10/,45-1,10,2025-06-16,Opposition Motion (GCStrategies Inc.),Passed,,172,166,democracy_procedure
+/votes/45-1/9/,45-1,9,2025-06-16,Motion for closure,Passed,,307,29,democracy_procedure
+/votes/45-1/8/,45-1,8,2025-06-12,"2nd reading of Bill C-4, An Act respecting certain affordability measures for Canadians and another measure",Passed,/bills/45-1/C-4/,335,0,economy_budget
+/votes/45-1/7/,45-1,7,2025-06-11,Opposition Motion (Canada carbon rebate and payment to Quebec),Failed,,30,308,energy_environment
+/votes/45-1/6/,45-1,6,2025-06-11,Opposition Motion (Canada carbon rebate and payment to Quebec) (amendment),Failed,,30,310,energy_environment
+/votes/45-1/5/,45-1,5,2025-06-10,Opposition Motion (Food inflation and budgetary policy),Failed,,162,174,economy_budget
+/votes/45-1/4/,45-1,4,2025-06-05,Ways and means motion No. 1,Passed,,333,0,economy_budget
+/votes/45-1/3/,45-1,3,2025-06-02,Address in Reply to the Speech from the Throne (amendment as amended with subamendment),Passed,,166,164,democracy_procedure
+/votes/45-1/2/,45-1,2,2025-06-02,Address in Reply to the Speech from the Throne (subamendment),Passed,,331,0,democracy_procedure
+/votes/45-1/1/,45-1,1,2025-05-29,Address in Reply to the Speech from the Throne (subamendment),Passed,,337,0,democracy_procedure
+/votes/44-1/928/,44-1,928,2024-12-17,Motion to adjourn the House,Passed,,177,140,democracy_procedure
+/votes/44-1/927/,44-1,927,2024-12-17,Motion to proceed to First Reading of Senate Public Bills,Passed,,296,17,democracy_procedure
+/votes/44-1/926/,44-1,926,2024-12-17,Motion to proceed to Orders of the Day,Failed,,144,167,democracy_procedure
+/votes/44-1/925/,44-1,925,2024-12-12,Ninth report of the Standing Committee on Veterans,Passed,,328,0,defence_foreign
+/votes/44-1/924/,44-1,924,2024-12-12,Ninth report of the Standing Committee on Veterans Affairs (Previous question),Passed,,209,119,defence_foreign
+/votes/44-1/923/,44-1,923,2024-12-10,"3rd reading and adoption of Bill C-79, An Act for granting to His Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2025",Passed,/bills/44-1/C-79/,209,120,economy_budget
+/votes/44-1/922/,44-1,922,2024-12-10,"Concurrence at report stage of Bill C-79, An Act for granting to His Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2025",Passed,/bills/44-1/C-79/,209,120,economy_budget
+/votes/44-1/921/,44-1,921,2024-12-10,"2nd reading of Bill C-79, An Act for granting to His Majesty certain sums of money for the federal public administration for the fiscal year ending March 31, 2025",Passed,/bills/44-1/C-79/,209,120,economy_budget
+/votes/44-1/920/,44-1,920,2024-12-10,Concurrence in estimates,Passed,,209,120,economy_budget
+/votes/44-1/919/,44-1,919,2024-12-10,Concurrence in an opposed item,Passed,,176,152,democracy_procedure
+/votes/44-1/918/,44-1,918,2024-12-10,Opposition Motion (Repeal of Bill C-5),Failed,,121,210,justice_security
+/votes/44-1/917/,44-1,917,2024-12-10,Eighth report of the Standing Committee on Public Accounts,Passed,,334,0,economy_budget
+/votes/44-1/916/,44-1,916,2024-12-10,Eighth report of the Standing Committee on Public Accounts (previous question),Passed,,213,119,economy_budget
+/votes/44-1/915/,44-1,915,2024-12-10,Opposition Motion (Federal sales tax on new homes),Failed,,146,186,housing_infrastructure
+/votes/44-1/914/,44-1,914,2024-12-09,Opposition Motion (Cost of living relief for Canadians),Failed,,28,303,economy_budget
+/votes/44-1/913/,44-1,913,2024-12-09,Opposition Motion (Confidence in the Prime Minister and the government),Failed,,152,180,democracy_procedure
+/votes/44-1/912/,44-1,912,2024-12-05,20th report of the Standing Committee on Foreign Affairs and International Development,Passed,,208,114,defence_foreign
+/votes/44-1/911/,44-1,911,2024-12-05,20th report of the Standing Committee on Foreign Affairs and International Development (Previous Question),Passed,,209,115,defence_foreign
+/votes/44-1/910/,44-1,910,2024-12-05,Motion to proceed to Orders of the Day,Failed,,146,171,democracy_procedure
+/votes/44-1/909/,44-1,909,2024-12-04,"2nd reading of Bill C-380, An Act to amend the Canadian Environmental Protection Act, 1999 (Plastic manufactured items)",Failed,/bills/44-1/C-380/,118,210,energy_environment
+/votes/44-1/908/,44-1,908,2024-12-03,10th report of the Standing Committee on Environment and Sustainable Development,Passed,,207,117,energy_environment
+/votes/44-1/907/,44-1,907,2024-12-03,10th report of the Standing Committee on Environment and Sustainable Development (Previous Question),Passed,,207,117,energy_environment
+/votes/44-1/906/,44-1,906,2024-12-03,18th report of the Standing Committee on Indigenous and Northern Affairs,Passed,,324,0,indigenous
+/votes/44-1/905/,44-1,905,2024-12-03,18th report of the Standing Committee on Indigenous and Northern Affairs (Amendment),Passed,,325,0,indigenous
+/votes/44-1/904/,44-1,904,2024-11-28,"2nd reading of Bill C-78, An Act respecting temporary cost of living relief (affordability)",Passed,/bills/44-1/C-78/,176,151,economy_budget
+/votes/44-1/903/,44-1,903,2024-11-28,Government Business No. 43 (Proceedings on a bill entitled An Act respecting temporary cost of living relief (affordability)),Passed,,174,148,economy_budget
+/votes/44-1/902/,44-1,902,2024-11-28,Government Business No. 43 (Proceedings on a bill entitled An Act respecting temporary cost of living relief (affordability)) (amendment),Failed,,153,176,economy_budget

@@ -1,0 +1,144 @@
+{
+  "name": "canadian-federal-mps",
+  "title": "Canadian Federal MPs: public record, lobbying contacts and ethics declarations",
+  "version": "2026-09-27",
+  "generated": "2026-09-27T20:06:23.011Z",
+  "generator": "SENTINEL",
+  "license": "Compiled dataset: CC BY 4.0. Underlying records remain subject to their sources: Open Government Licence - Canada (Parliament, Commissioner of Lobbying), CC0 (Wikidata), openparliament.ca terms.",
+  "scope": "Public records about sitting Members of the House of Commons in their public role only. Nothing about private life. Every record carries its source.",
+  "sources": [
+    {
+      "name": "House of Commons - Members open data",
+      "url": "https://www.ourcommons.ca/Members/en/search/XML",
+      "used_for": "roster, roles, committees, associations"
+    },
+    {
+      "name": "Represent (Open North)",
+      "url": "https://represent.opennorth.ca/",
+      "used_for": "official photos, positions"
+    },
+    {
+      "name": "Wikidata",
+      "url": "https://www.wikidata.org/",
+      "used_for": "public social media accounts (CC0)"
+    },
+    {
+      "name": "openparliament.ca",
+      "url": "https://openparliament.ca/",
+      "used_for": "recorded votes, sponsored bills"
+    },
+    {
+      "name": "Office of the Conflict of Interest and Ethics Commissioner - public registry",
+      "url": "https://www.ethicscanada.ca/en/public-registry",
+      "used_for": "disclosure summaries, gifts, sponsored travel, recusals, reports"
+    },
+    {
+      "name": "Office of the Commissioner of Lobbying - Monthly Communication Reports",
+      "url": "https://open.canada.ca/data/en/dataset/a34eb330-7136-4f5e-9f5f-3ba41df58b06",
+      "used_for": "registered communications with MPs",
+      "coverage": "2008-07-14 to 2026-09-10"
+    },
+    {
+      "name": "Jev (typesafe.ai)",
+      "url": "https://typesafe.ai/",
+      "used_for": "MODEL-DERIVED fields only: organisation sector/kind, vote policy_area"
+    }
+  ],
+  "counts": {
+    "mps": 337,
+    "social_accounts": 423,
+    "committee_seats": 462,
+    "ethics_declarations": 3247,
+    "lobbying_mp_org_pairs": 37626,
+    "lobbying_communications": 71653,
+    "organisations": 3923,
+    "votes": 201,
+    "correlations": 123,
+    "hypotheses": 0
+  },
+  "files": [
+    {
+      "file": "mps.json",
+      "bytes": 420743,
+      "sha256": "72c5882db5314012ea9b95599e52daf474a7c5806125f71accec51cd5871d12a",
+      "tier": "DOCUMENTED",
+      "model_derived_fields": []
+    },
+    {
+      "file": "mps.csv",
+      "bytes": 90965,
+      "sha256": "16af57486af65689ef1c2d777806987922f900bba8ba98098193313e398ed893",
+      "tier": "DOCUMENTED",
+      "model_derived_fields": []
+    },
+    {
+      "file": "social_accounts.csv",
+      "bytes": 19382,
+      "sha256": "411a605e5918d74a0ba681aa5fca2ed6fff37d6a610674196181854dbd7bbd33",
+      "tier": "DOCUMENTED",
+      "model_derived_fields": []
+    },
+    {
+      "file": "committees.csv",
+      "bytes": 26739,
+      "sha256": "25a1b321fb638d70c17a29702b8e1ce33de213311c9e0a874d07eb19ca374b79",
+      "tier": "DOCUMENTED",
+      "model_derived_fields": []
+    },
+    {
+      "file": "ethics_declarations.json",
+      "bytes": 4196475,
+      "sha256": "b22bcb40372d64d22739000aa90ec1290c3765c692eddb1cc045440b0a6e89aa",
+      "tier": "DOCUMENTED",
+      "model_derived_fields": []
+    },
+    {
+      "file": "ethics_declarations.csv",
+      "bytes": 3705578,
+      "sha256": "e3d35481463cf9c011f269a0130afa909baf499aea920e7fb9bcdf04a1dc773a",
+      "tier": "DOCUMENTED",
+      "model_derived_fields": []
+    },
+    {
+      "file": "lobbying_contacts.csv",
+      "bytes": 3890721,
+      "sha256": "8fa6d6c3c3727bf54e65464eda19cec2dba84d482881d82ead2a1127b5cd8567",
+      "tier": "DOCUMENTED",
+      "model_derived_fields": [
+        "sector",
+        "kind"
+      ]
+    },
+    {
+      "file": "organisations.csv",
+      "bytes": 234732,
+      "sha256": "24295ce335ad0d4dac29a540ae050a7116bb71d07461d31d31b36cf74d57d525",
+      "tier": "DOCUMENTED",
+      "model_derived_fields": [
+        "sector",
+        "kind",
+        "sector_confidence"
+      ]
+    },
+    {
+      "file": "votes.csv",
+      "bytes": 36266,
+      "sha256": "ae48f6c43aec0eea6f220fbc5adf40e49a69c0c320b7f47142dbab15bab1e860",
+      "tier": "DOCUMENTED",
+      "model_derived_fields": [
+        "policy_area"
+      ]
+    },
+    {
+      "file": "correlations.json",
+      "bytes": 101988,
+      "sha256": "3ced55d6a3d225324c3470550a37d5425d4f97e2d2e5265b1582cb4b5a3467b0",
+      "tier": "DOCUMENTED",
+      "model_derived_fields": []
+    }
+  ],
+  "notes": {
+    "correlations": "A correlation is two documented records naming the same organisation for the same MP (for example a declared interest and a registered lobbying contact). It is a cross-reference, not a finding: a declared bank account plus that bank lobbying Parliament is the ordinary case.",
+    "hypotheses": "not included in this build"
+  }
+}
