@@ -1,6 +1,6 @@
 # Canadian Federal MPs: public record, lobbying contacts and ethics declarations
 
-Generated 2026-09-27T20:06:23.011Z by SENTINEL. Public records about sitting Members of the House of Commons in their public role only. Nothing about private life. Every record carries its source.
+Generated 2026-09-27T23:01:42.900Z by SENTINEL. Public records about sitting Members of the House of Commons in their public role only. Nothing about private life. Every record carries its source.
 
 **Licence:** Compiled dataset: CC BY 4.0. Underlying records remain subject to their sources: Open Government Licence - Canada (Parliament, Commissioner of Lobbying), CC0 (Wikidata), openparliament.ca terms.
 
